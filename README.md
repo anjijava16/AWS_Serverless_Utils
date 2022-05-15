@@ -10,8 +10,8 @@
 
 # AWS Big Data Courses:
 1. https://learn.acloud.guru/course/312375cd-c136-4f1c-81dc-dbdcfff2d06b/overview
-  Reference: https://github.com/linuxacademy/Content-AWS-Certified-Data-Analytics---Speciality
-             https://github.com/linuxacademy/Content-AWS-Certified-Data-Analytics---Speciality/tree/master/Amazon_Simple_Storage_Service/Getting_Data_Into_S3
+  1. Reference: https://github.com/linuxacademy/Content-AWS-Certified-Data-Analytics---Speciality
+  2.           https://github.com/linuxacademy/Content-AWS-Certified-Data-Analytics---Speciality/tree/master/Amazon_Simple_Storage_Service/Getting_Data_Into_S3
 			 
 2. https://learn.acloud.guru/course/aws-certified-big-data-specialty/dashboard (OLD)
 3. https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/overview (Data Analaytics)
