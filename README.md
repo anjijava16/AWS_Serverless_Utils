@@ -1,4 +1,8 @@
 # AWS_Serverless_Utils
+# Labs
+## install
+1. npm install -g serverless
+
 
 
 # Automating AWS with Lambda, Python, and Boto3
