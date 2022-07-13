@@ -3,7 +3,8 @@
 2. Serverless
 
 # SAM (AWS):
-1. https://jun711.github.io/aws/aws-sam-invoke-local-to-execute-lambda-locally/
+1. https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html
+2. https://jun711.github.io/aws/aws-sam-invoke-local-to-execute-lambda-locally/
 
 # Serverless
 1. npm install -g serverless
