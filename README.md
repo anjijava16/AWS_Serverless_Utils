@@ -2,6 +2,12 @@
 # Labs
 ## install
 1. npm install -g serverless
+2. aws sam (Serverless application model)
+
+https://github.com/aws-samples/aws-serverless-workshops
+https://github.com/aws-samples/aws-health-aware/blob/main/handler.py
+https://github.com/aws-samples/aws-serverless-airline-booking/tree/develop/src/backend/booking/src/reserve-booking
+https://github.com/aws-samples/serverless-samples/tree/main/serverless-rest-api/python-rest-sam
 
 
 
