@@ -1,13 +1,20 @@
 # AWS_Serverless_Utils
-# Labs
-## install
+1. AWS SAM
+2. Serverless
+
+# SAM (AWS):
+1. https://jun711.github.io/aws/aws-sam-invoke-local-to-execute-lambda-locally/
+
+# Serverless
 1. npm install -g serverless
 2. aws sam (Serverless application model)
 
-https://github.com/aws-samples/aws-serverless-workshops
-https://github.com/aws-samples/aws-health-aware/blob/main/handler.py
-https://github.com/aws-samples/aws-serverless-airline-booking/tree/develop/src/backend/booking/src/reserve-booking
-https://github.com/aws-samples/serverless-samples/tree/main/serverless-rest-api/python-rest-sam
+
+# Reference Projects here 
+1. https://github.com/aws-samples/aws-serverless-workshops
+2. https://github.com/aws-samples/aws-health-aware/blob/main/handler.py
+3. https://github.com/aws-samples/aws-serverless-airline-booking/tree/develop/src/backend/booking/src/reserve-booking
+4. https://github.com/aws-samples/serverless-samples/tree/main/serverless-rest-api/python-rest-sam
 
 
 
